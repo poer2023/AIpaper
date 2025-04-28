@@ -1,0 +1,17 @@
+fastapi==0.111.0
+uvicorn==0.25.0
+sqlalchemy==2.0.25
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+langchain==0.1.1
+langchain-openai==0.0.5
+pypdf==4.0.1
+chromadb==0.4.22
+citeproc-py==0.6.0
+python-multipart==0.0.6
+psycopg2-binary==2.9.9
+alembic==1.13.1
+pytest==7.4.3
+httpx==0.26.0
+aiohttp==3.9.1 
